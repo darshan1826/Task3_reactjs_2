@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Task2_reactjs/static/css/main.64d25417.css",
-    "main.js": "/Task2_reactjs/static/js/main.dec65e36.js",
-    "static/js/787.b3ca4345.chunk.js": "/Task2_reactjs/static/js/787.b3ca4345.chunk.js",
-    "index.html": "/Task2_reactjs/index.html",
-    "main.64d25417.css.map": "/Task2_reactjs/static/css/main.64d25417.css.map",
-    "main.dec65e36.js.map": "/Task2_reactjs/static/js/main.dec65e36.js.map",
-    "787.b3ca4345.chunk.js.map": "/Task2_reactjs/static/js/787.b3ca4345.chunk.js.map"
+    "main.css": "/Task3_reactjs/static/css/main.64d25417.css",
+    "main.js": "/Task3_reactjs/static/js/main.3d48fa67.js",
+    "static/js/787.b3ca4345.chunk.js": "/Task3_reactjs/static/js/787.b3ca4345.chunk.js",
+    "index.html": "/Task3_reactjs/index.html",
+    "main.64d25417.css.map": "/Task3_reactjs/static/css/main.64d25417.css.map",
+    "main.3d48fa67.js.map": "/Task3_reactjs/static/js/main.3d48fa67.js.map",
+    "787.b3ca4345.chunk.js.map": "/Task3_reactjs/static/js/787.b3ca4345.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64d25417.css",
-    "static/js/main.dec65e36.js"
+    "static/js/main.3d48fa67.js"
   ]
 }
